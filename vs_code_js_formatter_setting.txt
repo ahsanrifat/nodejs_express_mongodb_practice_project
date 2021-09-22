@@ -8,3 +8,8 @@
     "source.organizeImports": true
   },
   "eslint.alwaysShowStatus": true
+
+Step01. yard add -D eslint
+Step02. add the above config in vs code setting
+step03. install eslink extintion
+step04: add eslint config file
